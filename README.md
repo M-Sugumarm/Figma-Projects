@@ -19,7 +19,7 @@
 
 | Home Screen | Scroll Interaction |
 | :---------: | :-----------------: |
-| ![Home Screen](./images/home.png) | ![Scroll Interaction](./images/scroll.png) |
+| ![Home Screen](./Images/Screenshot (134).png) | ![Scroll Interaction](./Images/Screenshot (135).png) |
 
 *(Replace the above screenshots with your own exported images in an `images/` folder.)*
 
