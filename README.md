@@ -19,9 +19,8 @@
 
 | Home Screen | Scroll Interaction |
 | :---------: | :-----------------: |
-| ![Home Screen](./Images/Screenshot (134).png) | ![Scroll Interaction](./Images/Screenshot (135).png) |
-
-*(Replace the above screenshots with your own exported images in an `images/` folder.)*
+![Screenshot (134)](https://github.com/user-attachments/assets/1567b402-5a78-4cce-bbf8-77da7607c9d9)
+![Screenshot (135)](https://github.com/user-attachments/assets/9928f2a8-9a80-4969-935b-19e08f5a5fb9)
 
 ---
 
